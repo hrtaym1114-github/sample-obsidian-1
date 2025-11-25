@@ -1,0 +1,42 @@
+<!-- Original Source: https://www.youtube.com/watch?v=y-I4Mf5SrXk -->
+
+# YouTube
+
+## Gemini 2.5 Pro + OpenAI's GPT-4O Designer: This FULLY FREE AI Coding Workflow IS AMAZING!
+
+### Video Metadata
+- **Keywords:** gemini 2.5 pro, 4o designer, new gemini 2.5 pro model, new gemini 2.5 pro 4o designer ai coder, new gemini 2.5 pro ai coder, new gemini 2.5 pro, gpt 4o image gen web design, new ai workflow, new gemini 2.5 pro gpt 4o workflow ai coding
+- **Runtime:** PT8M31S
+
+### Description
+NinjaChat AI プラットフォームについては、こちらをご覧ください: https://www.ninjachat.ai/
+
+このビデオでは、GPT-4O Designer を使用してデザインを生成し、それを Gemini 2.5 Pro を使用してコードに変換できる新しい AI コーディングについて説明します。完全に無料で使用できます。
+
+---
+重要なポイント:
+
+🎨 GPT-4O 画像生成は、デザインを生成するための価値のある製品です。
+
+✨ アプリケーション デザインとクールなビジュアルの作成に優れています。
+
+🖼️ このツールは透明な画像を作成でき、アセットや背景に便利です。
+
+📝 Web デザイン、特にテキストやリファレンス デザインのレンダリングに最適です
+
+🛠️ スプライト シートやゲームのロゴなどのアセットを生成するために使用できます。
+
+🔄 Gemini 2.5 Pro は、画像デザインを適切に複製し、スタイルをマージできます。
+
+🔜 Cline などのツールへの統合を容易にするために、Image API が利用可能になると予想されます。
+
+----
+タイムスタンプ:
+
+00:00 - はじめに
+01:14 - NinjaChat (スポンサー)
+02:04 - 新しいワークフローの使用法
+08:15 - 終了
+
+### Transcript
+[Music] [Applause] hi welcome to another video so OpenAI has launched their GPT40 image generation and it's probably the most worthwhile product that OpenAI has shared in a while i mean I'm not dumb enough to only generate Gibli images with it and I have actually been using it a lot for application designs believe it or not it's one of the best image generators that can generate some really cool designs that I have seen as of now the designs are probably better than what I make and it can also make transparent images which is what I really liked about it which means that we can even use it to make assets backgrounds and much more i mean people are making YouTube thumbnails with it and whatnot anyway I wanted to show you guys how I have been using OpenAI's new image generation to generate designs and then make it work accordingly so let me show you how it works how I have been using it and everything like that but before we do that let me tell you about Ninja Chat ninja Chat is an all-in-one AI platform where for just $11 per month you get access to top AI models like GPT40 Claude 3.7 Sonnet and Gemini 2.0 Flash all in one place i've been using Gemini for quick research but what's really cool is their AI playground where you can compare responses from different models side by side their mind map generator is a gamecher for organizing complex ideas as well the basic plan gives you 1,000 messages 30 images and five videos monthly with higher tiers available if you need more use my code king 25 for 25% off any plan or king 40 yearly for 40% off annual subscriptions check the link in description to try it yourself now back to the video now their new GPT40 image generation is free with some limits on chat GPT and it is currently under heavy usage and sometimes it may show you a waiting period after which you can generate the image anyway so if we talk about what we can make it do then there are majorly two things that it can do it can generate images from scratch or you can also give it an image for it to edit similar to how Gemini's native image editing works as well although this is comparatively better one of the major things that I use it for is actually web design as it can render text extremely well and is great at generating reference designs so one thing that I did is that I gave it a mockup of a design this is a design of an LLM testing application that is basically a much more intuitive interface for the LLM testings that I do so here I just gave it this image which is a very basic mockup of how I want things to look and then I asked it to take this image and make it better looking in a minimal style with a bit of shininess then we get the stuff made here one thing that I have seen and this happens almost every time is that it zooms in on the text and makes things a lot more zoomed in for some reason even if you don't ask it to do it it still does that so I don't know why it does that anyway still it is great as it does give you an outline of how it should look it looks really good considering what I had prompted it to do and this looks great it's great for brainstorming design ideas and everything like that so now we can take this image to something like Windsurf or Klein and ask it to work on this but since we are here I also want to show some other use cases for what you can do with it you can edit any image easily but one of the other things is that if you make games then you can have it make assets for you like sprite sheets logos or whatever you might want it to do and it's actually quite good at that as well you can use this as well accordingly for those but now let me show you how I generally convert the designs into proper web pages that we can then extend further so just open up the coder of your choice i'll be using Klein for now because that's what I like to use generally i'll be using Gemini 2.5 Pro for now as I generally like to use that for most of the tasks these days now just upload the image that you have just generated and you can also upload the original wireframe one because the layout is a bit messed up in the generation so we can just ask it to take the style from the generation and the layout from the original one and now just ask it to replicate it although make sure that you have a basic nextjs app setup or you can just ask it to set that up as well i already have a basic nextjs app setup here now once we send the prompt you'll see that it starts working on it gemini has always been great at replicating image designs and this Gemini 2.5 Pro is also really great at it anyway you can see that it's now done and it has generated the code and applied it and everything like that we can now go ahead and run it and boom you can see that this looks kind of great for a oneshot generation it's really awesome for sure we can now obviously go ahead and make some changes to it as well let's ask it to make some changes to it as well and let me try to make it a bit better okay it's now doing that and if we wait a bit then it's now done and it did this pretty well if we run it then this looks kind of great as well we can obviously keep going to make it even better but this video is about how you can use GPT40's image generation capability with it to generate some cool stuff currently its image capability is not available as a proper API which is a little bad and I hope that it becomes available soon because that will allow us to integrate it into Klein and then use it without the need to navigate to things like chat GPT currently you will face a bit of an issue with chat GPT as everyone is busy generating Gibli but still it is a really great one for designs making assets and much more stuff like that you can also generate transparent assets with it which means that you can like ask it to generate a whole design first then ask it for transparent assets that you can then merge together and use it accordingly that's majorly how I use it i really like how this workflow works because it can create some great designs as well it is also great at a bunch of other stuff but it is still bad at some stuff like sometimes the design is a lot misaligned and goes out of the way and does something finicky or sometimes the text glitches out so make sure that you use it accordingly for that gemini 2.5 Pro is really good at vision tasks and it also replicates the stuff pretty well and it also works with multiple images which allows you to give it the first wireframe and then give it the mockup and ask it to merge the style and layout accordingly which is kind of cool overall it's pretty cool anyway share your thoughts below and subscribe to the channel you can also donate via super thanks option or join the channel as well and get some perks i'll see you in the next video bye [Music]

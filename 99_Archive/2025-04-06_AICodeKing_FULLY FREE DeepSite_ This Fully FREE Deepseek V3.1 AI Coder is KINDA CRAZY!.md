@@ -1,0 +1,42 @@
+<!-- Original Source: https://www.youtube.com/watch?v=LmpNOY5sQuc -->
+
+# YouTube
+
+## FULLY FREE DeepSite: This Fully FREE Deepseek V3.1 AI Coder is KINDA CRAZY!
+
+### Video Metadata
+- **Keywords:** deepsite, deepseek new ai coder, new deepsite ai coder, new deepseek deepsite ai coder, new ai coder free, new fully free ai coder, new free deepsite ai coder, new ai coder, new ai coding free, new fully free deepseek ai coder
+- **Runtime:** PT8M24S
+
+### Description
+NinjaChat AI プラットフォームについては、こちらでご確認ください: https://www.ninjachat.ai/
+
+このビデオでは、Deepseek V3.1 ベースの DeepSite AI Coder についてご紹介します。これは、驚くほど使いやすいものです。完全に無料で高速な AI コーダーです。
+
+----
+主なポイント:
+
+🚀 Deepseek V3.1 は、Claude 3.7 Sonnet より 10 倍近く安価であるにもかかわらず、パフォーマンスが優れています。
+
+💯 このモデルは、ベンチマークで大幅な改善を示しています: MMLU で +6 ポイント、GPQA で +9.3、AIME で +19.8、Live Code Bench で +10。
+
+💻 DeepSite は、Deepseek V3.1 を使用して VS Code のようなインターフェイスでコードを生成できる無料の Hugging Face Space です。
+
+🔧 このツールは、シンプルなプロンプトから優れた機能を備えた単一ファイルの HTML アプリケーションを作成するのに優れています。
+
+🎮 DeepSite は、画像クロッパー、描画ツール、さらにはシンプルな 3D ゲームなどの複雑なインタラクティブ ツールを作成できます。
+
+🔄 すべてのコードはオープン ソースであり、クローンを作成してローカルで実行したり、独自のプロジェクト用に Docker で実行したりできます。
+
+🆓 DeepSite は完全に無料で使用でき、コーディングの知識がなくても便利な Web ベースのツールを生成できます。
+
+----
+タイムスタンプ:
+
+00:00 - はじめに
+03:39 - NinjaChat (スポンサー)
+04:29 - 使用方法
+08:08 - 終了
+
+### Transcript
+[Music] [Applause] hi welcome to another video while deep seek V 3.1 got a bit overshadowed when Gemini 2.5 Pro was released Deep's new model is actually quite amazing it's incredibly costeffective and despite not even being marketed as a reasoning model it somehow outperforms models like Claude 3.7 sonnet which is truly impressive I'm really impressed by this model considering it's almost 10 times cheaper than Claude 3.7 Sonet while offering nearly the same capabilities the AER leader boards show significant improvement over the previous model and it performs exceptionally well in my own tests too which is remarkable it shows an improvement of about six points in mmu while gaining 9.3 points in GP QA and approximately 19.8 points in aim it also demonstrates a 10-point Improvement in Live code bench which is excellent the model features improved accuracy in code generation can create more aesthetically pleasing web pages and game front ends and even offers increased accuracy in function calling fixing issues from previous V3 version which is definitely awesome I really appreciate this model as it delivers great performance for the price it's offered at you can obviously use it for free on their platform but I've discovered a tool that's completely free and also allows you to generate code with it which is fantastic it's called Deep site now you might wonder what deep site is well it's quite simple it's a hug face space that lets you use the new deep seek V 3.1 model for free and create some impressive things with it it's open source so you can view the code and even duplicate the space to use it according to your needs but first let me show you how it works on the left you can see a basic HTML page where you get the page code that renders what you see on the right it's very intuitive and similar to vs code which is great and you can also edit the code manually you can see a mini map of the code the file name and other helpful features looking at the interface you can see the code on the left and if you look down you'll notice the prompt box this is where you enter prompts about what you want the AI to create you can ask it to generate any kind of app or tool you need if it only generates code in a single file and only uses HTML which might seem limiting but it actually works quite well in practice you can reset The Code by clicking the new button which will revert the code to the default template which is very convenient then you have the preview section where any changes to the code are immediately reflected you can also manually change something in the code code and it will update in the preview as well now let's try it out and see what it can do and how it performs but before we do that let me tell you about Ninja chat ninja chat is an all-in-one AI platform where for just $11 per month you get access to top AI models like GPT 40 Claude 3.7 Sonet and Gemini 2.0 flash all in one place I've been using Gemini for quick research but what's really cool is their AI playground where you can compare responses from different models side by side their mind map generator is a game changer for organizing complex ideas as well the basic plan gives you 1,000 messages 30 images and five videos monthly with higher tiers available if you need more use my code King 25 for 25% off any plan or King 40 yearly for 40% off annual subscriptions check the link in description to try it yourself now back to the video let's ask it to make me an image Cropper tool I'm going to enter the prompt here and once I send it you'll see it start working the code starts streaming immediately and you can see it happening right here we'll need to wait a bit as the code is going to be somewhat lengthy although deep seek is quite fast these days even if not as Lightning quick as when it first launched if we wait a moment there it's done now and you can see the completed generation the result is actually amazing I believe this system is optimized to deliver excellent one-page results which is perfect since it's mainly focused on creating compact tools for specific needs and this is quite impressive you can see a variety of options here and it works remarkably well I haven't seen such good results from such a simple prompt before the system prompt must be doing wonders here this is truly impressive let's try something more complex as well I want to create a tool that I'll actually use so I'll ask it to build me a tool that allows me to upload an image and then scribble over it and then save it back this is fairly complex since handling canvas elements can be challenging especially when implementing everything in a single HTM ml file you can see it working on that now and if we wait a bit it's finished and we can see the app is ready once again it's working incredibly well you can upload an image here choose the color along with brush size and you also have options to clear drawings and save the image you can easily draw over the image based on the settings you've selected Above This is genuinely impressive it works exceptionally well for small tools and many people generally want simple options to generate basic tools for specific tasks so this can definitely be useful in that regard it works really well for most of the tasks which is kind of great to see so there's that let's also try something even more complex with it I'm going to ask it to make me a simple 3D sailing ship game let's see if it can handle this challenge okay it's working on it now let's wait for it to finish and it's done you can see it did this quite well it wrote the code and now we have a functioning game it looks good and works smoothly which is awesome especially considering it's all done in one page and completely free the code is open source and you can view it in the file section where you can examine the code clone it locally to run it or even run it locally with Docker which is very convenient you can do all of that which is fantastic I really appreciate small tools like this because they make creating simple utilities easy which is what most of us need I genuinely like it a lot and you should give it a try too you get the code which you can also run locally which is another great benefit feel free to use it as much as you want and create some cool projects with it overall it's pretty cool anyway share your thoughts below and subscribe to the channel you can also donate via super thanks option or join the channel as well and get some perks I'll see you in the next video bye [Music]
